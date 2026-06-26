@@ -1,4 +1,4 @@
-# Agent-study-note
+# AI-study-note
 ## 数学基础<br>
 1.[线性代数](https://github.com/MLNLP-World/MIT-Linear-Algebra-Notes)<br>
 2.[微积分](https://github.com/smzztx/MIT-Highlights-of-Calculus)<br>
@@ -32,3 +32,4 @@
 5.[SVM,分界钱]<br>
 6.[PCA,主成份分析]<br>
 7.[HMM,隐马尔可夫]<br>
+## 深度学习与神经网络基础<br>
