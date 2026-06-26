@@ -45,4 +45,11 @@
 5.Transfomer]<br>
 6.[Autoencoder]<br>
 7.[diffusion]<br>
+## 深度学习经典模型<br>
+1.[LeNet]<br>
+2.[AlexNet]<br>
+3.[VGGNet]<br>
+4.[GoogleNet]<br>
+5.[ResNet]<br>
+6.[
 
