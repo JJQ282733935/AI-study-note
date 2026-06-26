@@ -51,5 +51,9 @@
 3.[VGGNet]<br>
 4.[GoogleNet]<br>
 5.[ResNet]<br>
-6.[
+6.[Seq-to-Seq]<br>
+7.[Word2Vec]<br>
+8.[GAN]<br>
+9.[VAE]<br>
+
 
