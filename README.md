@@ -33,3 +33,16 @@
 6.[PCA,主成份分析]<br>
 7.[HMM,隐马尔可夫]<br>
 ## 深度学习与神经网络基础<br>
+1.[神经网络结构]<br>
+2.[激活函数]<br>
+3.[损失函数]<br>
+4.[自动求导]<br>
+## 经典深度学习架构<br>
+1.[MLP]<br>
+2.[CNN]<br>
+3.[RNN]<br>
+4.[Attention机制]<br>
+5.Transfomer]<br>
+6.[Autoencoder]<br>
+7.[diffusion]<br>
+
