@@ -55,5 +55,14 @@
 7.[Word2Vec]<br>
 8.[GAN]<br>
 9.[VAE]<br>
+## AI研究方向<br>
+1.[NLP]<br>
+2.[CV]<br>
+3.[sound]<br>
+4.[llm]<br>
+5.[agent engineering]<br>
+6.[physical AI]<br>
+7.[VLM]<br>
+
 
 
