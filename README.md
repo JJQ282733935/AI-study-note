@@ -55,6 +55,7 @@
 7.[Word2Vec]<br>
 8.[GAN]<br>
 9.[VAE]<br>
+10.[yolo]<br>
 ## AI研究方向<br>
 1.[NLP]<br>
 2.[CV]<br>
